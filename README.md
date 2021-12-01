@@ -1,4 +1,4 @@
-# S01 T02: Jupyter Notebook i Markdown
+# S02 T01: Jupyter Notebook i Markdown
 
  _We begin to become familiar with Python through the "Jupyter Notebook" work environment. Let’s start with a few basic exercises_
  
